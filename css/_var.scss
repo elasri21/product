@@ -1,0 +1,20 @@
+// Primary Colors
+$dark-cyan: hsl(158, 36%, 37%);
+$hover-bg: hsl(158, 36%, 27%);
+$cream: hsl(30, 38%, 92%);
+// Neutral
+$very-dark-blue: hsl(212, 21%, 14%);
+$dark-brayish-blue: hsl(228, 12%, 48%);
+$white: hsl(0, 0%, 100%);
+// our colors 
+$main-bg: $cream;
+$btn-bg: $dark-cyan;
+$text-color: $dark-brayish-blue;
+$title-color: $very-dark-blue;
+// Topography
+
+$p-size: 14px;
+$family: 'Montserrat', sans-serif;
+
+//break point
+$mobile: '(max-width: 767px)';
